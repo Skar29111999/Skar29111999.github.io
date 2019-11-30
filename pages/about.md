@@ -2,6 +2,6 @@
 layout: default
 title: About
 id: about
+thumbnail: ''
 ---
-
-This is my about page!!!!
+Sanskar Gupta
