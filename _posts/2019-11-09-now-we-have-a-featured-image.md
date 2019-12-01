@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 'Sanskar Gupta '
+title: 'UX Journey So Far... '
 date: '2019-11-09 16:38:39'
-thumbnail: /images/uploads/bridge-in-forest-minimalist-4k-w7.jpg
+thumbnail: /images/uploads/nick-scheerbart-xfjaftu8lmy.jpg
 tags: featured image
 ---
 ## <font color="cyan"><u>**Bridging Problems and Solution...**
