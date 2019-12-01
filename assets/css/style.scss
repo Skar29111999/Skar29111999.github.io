@@ -3,5 +3,22 @@
 @import "bootstrap.min.css";
 
 img{
-    max-width: 10%;
+    max-width: 100%;
 }
+
+nav li{
+    border-radius: 25px; 
+    background-color: #ddd;
+    border: none; 
+    color: black; 
+    padding: 16px 32px; 
+    text-align: center; 
+    font-size: 16px; 
+    margin: 4px 2px;
+    transition: 0.3s; 
+}
+
+nav li hover{
+    background-color: blue;
+    color: white;
+} 
