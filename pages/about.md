@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sanskar Gupta
-id: 'Personal Info. '
-thumbnail: /images/uploads/bridge-in-forest-minimalist-4k-w7.jpg
+id: Sanskar Gupta
+thumbnail: /images/uploads/alexander-slattery-li748t0bk8w.jpg
 ---
 \*Write here\*
