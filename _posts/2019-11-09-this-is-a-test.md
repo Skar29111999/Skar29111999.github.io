@@ -1,9 +1,12 @@
 ---
 layout: default
-title: This is a test
+title: 'Doorcom '
 date: '2019-11-09 16:28:16'
-tags: entrepreneurship
-thumbnail: /images/uploads/2016_global_entrepreneurship_summit_logo_color_800_1.jpg
+thumbnail: /images/uploads/screen-shot-2019-10-18-at-4.10.28-pm.png
+myangle: >-
+  <br>The project was a challenge in terms of research since video door phone is
+  not  common yet and to determine the functionalities of the app was as good as
+  decding the needs of the user.
+tags: Phone Application
 ---
-
-Changing this now. I don't know why it is so strange????
+<br>The prototype is that of a Companion App for a Video Security Door-phone. This app has been built with respect to the requirements of potential users. This app is a project initiated by an Indian Startup, Acktron Security Systems (Delhii) (and thus, a fully functional prototype for the app/ all the artboards cannot be uploaded online). <br>
