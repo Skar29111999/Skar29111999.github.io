@@ -6,3 +6,5 @@ thumbnail: /images/uploads/bridge-in-forest-minimalist-4k-w7.jpg
 tags: featured image
 ---
 ## **Bridging Problems and Solution...**
+
+<br> <br>
