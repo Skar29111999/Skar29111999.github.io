@@ -4,8 +4,8 @@ title: Quizteria
 date: '2019-12-01 21:44:48'
 thumbnail: /images/uploads/screen-shot-2019-04-05-at-10.20.22-pm.png
 myangle: >-
-  ## I believe the most challenging element of the project was to determine my
-  user group. Persona was the solution. 
+  ## _I believe the most challenging element of the project was to determine my
+  user group. Persona was the solution._
 
 
   ![](/images/uploads/persona.001.jpeg)
@@ -16,6 +16,6 @@ myangle: >-
 
 <br> <br><br>
 
-## I believe the most challenging element of the project was to determine my user group. Persona was the solution. 
+## _I believe the most challenging element of the project was to determine my user group. Persona was the solution._
 
 ![](/images/uploads/persona.001.jpeg "Persona")
