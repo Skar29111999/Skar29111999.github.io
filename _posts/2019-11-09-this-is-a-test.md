@@ -10,3 +10,5 @@ myangle: >-
 tags: Phone Application
 ---
 <br>The prototype is that of a Companion App for a Video Security Door-phone. This app has been built with respect to the requirements of potential users. This app is a project initiated by an Indian Startup, Acktron Security Systems (Delhii) (and thus, a fully functional prototype for the app/ all the artboards cannot be uploaded online). <br>
+
+<br>The project was a challenge in terms of research since video door phone is not  common yet and to determine the functionalities of the app was as good as decding the needs of the user.
