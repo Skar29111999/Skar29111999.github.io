@@ -3,6 +3,6 @@ layout: default
 title: Contact
 id: contact
 ---
-## Email: gupt0620@mylaurier.ca 
+<u> Email: gupt0620@mylaurier.ca </u>
 
-## Snapchat: artist-sanskar
+Snapchat:  <u>artist-sanskar
