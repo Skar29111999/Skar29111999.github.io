@@ -15,3 +15,7 @@ myangle: >-
 ![](/images/uploads/screen-shot-2019-10-18-at-4.09.33-pm.png)
 
 <br> <br><br>
+
+## I believe the most challenging element of the project was to determine my user group. Persona was the solution. 
+
+![](/images/uploads/persona.001.jpeg "Persona")
