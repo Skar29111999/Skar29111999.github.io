@@ -33,6 +33,8 @@ The mentioned project was a group assignemnet in the First Year of UX at Wilfrid
 
 Software used for the project was Adobe XD.
 
-<br> _Many challenges were faced in the completion of the project since it was the first time I was designing a solution for the problem. Conducting research was a challenge for this project. I learnt my weakness was lack of research from this projects._
+<br><u>My Angle</u>
+
+<br>_Many challenges were faced in the completion of the project since it was the first time I was designing a solution for the problem. Conducting research was a challenge for this project. I learnt my weakness was lack of research from this projects._
 
 _<br><br>_
