@@ -1,11 +1,17 @@
 ---
 layout: default
-title: E-Learning Website
+title: Quizteria
 date: '2019-12-01 21:44:48'
 thumbnail: /images/uploads/screen-shot-2019-04-05-at-10.20.22-pm.png
+myangle: >-
+  ## <font color="white"> I believe the most challenging element of the project
+  was to determine my user group. Persona was the solution. 
+
+
+  ![](/images/uploads/persona.001.jpeg)
 ---
-![](/images/uploads/screen-shot-2019-10-18-at-4.09.33-pm.png "Artboards Overview ")
+<br> The goal of my project was to create an e-learning experience (website) to bring together the budding UX students and help them learn more about Behavioral Economics. This project was aimed at creating a whole community for UX students and helping them gain knowledge and useful information while gradually eliminating man misconceptions related to Behavioral Economics. The aim was to make learning a delightful experience and not merely a task for the completion of degree.  
 
-<br> The project was about providing overview of a topic in an effective and efficient manner. The challenges 
+![](/images/uploads/screen-shot-2019-10-18-at-4.09.33-pm.png)
 
-![](/images/uploads/persona.001.jpeg "Persona")
+<br> <br><br>
