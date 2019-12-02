@@ -13,4 +13,6 @@ tags: Doorcom
 
 <br>The project was a challenge in terms of research since video door phone is not  common yet and to determine the functionalities of the app was as good as decding the needs of the user. 
 
+<br><u>My Angle</u>
+
 <br><br>_The project was a challenge in terms of research since video door phone is not  common yet and to determine the functionalities of the app was as good as decding the needs of the user._
