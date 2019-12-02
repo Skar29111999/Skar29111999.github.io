@@ -5,6 +5,6 @@ id: contact
 ---
 Email: gupt0620@mylaurier.ca 
 
-![](/images/uploads/contact-illustration.png)
+![](/images/uploads/contact-illustration.png "contact")
 
 Snapchat: artist-sanskar
