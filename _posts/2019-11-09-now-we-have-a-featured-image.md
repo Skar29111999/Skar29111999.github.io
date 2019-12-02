@@ -21,6 +21,6 @@ The aim of the project was to include pets (specifically small) within the owner
 
 <br><u>My Angle</u>
 
-<br> _It was difficult to make the project environmentally sustainable while making the structure durable enough for pets to inhabit. The solution we came across was not a different material but a different way to process an existing material. On my visit to LA (Dec, 2018), I found a wending machine which crushed glass to fine granules and redeposited it to the beaches all over California. This way we could manufacture a durable product while providing users with an environmental way of disposing the product/material._
+_It was difficult to make the project environmentally sustainable while making the structure durable enough for pets to inhabit. The solution we came across was not a different material but a different way to process an existing material. On my visit to LA (Dec, 2018), I found a wending machine which crushed glass to fine granules and redeposited it to the beaches all over California. This way we could manufacture a durable product while providing users with an environmental way of disposing the product/material._
 
 <br><br>
