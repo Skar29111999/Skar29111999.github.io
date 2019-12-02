@@ -6,7 +6,8 @@ thumbnail: /images/uploads/screen-shot-2019-10-18-at-4.07.46-pm.png
 myangle: >-
   <br> Many challenges were faced in the completion of the project since it was
   the first time I was designing a solution for the problem. Conducting research
-  was a challenge for this project.
+  was a challenge for this project. I learnt my weakness was lack of research
+  for my projects.
 ---
 The mentioned project was a group assignemnet in the First Year of UX at Wilfrid Laurier University. 
 
@@ -28,3 +29,5 @@ The mentioned project was a group assignemnet in the First Year of UX at Wilfrid
 * Filtering Info.
 
 Software used for the project was Adobe XD.
+
+<br> Many challenges were faced in the completion of the project since it was the first time I was designing a solution for the problem. Conducting research was a challenge for this project. I learnt my weakness was lack of research for my projects.
