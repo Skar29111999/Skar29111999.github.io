@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging Problems and Solution...
+title: Cubix
 date: '2019-11-09 16:38:39'
 thumbnail: /images/uploads/screen-shot-2019-11-06-at-12.56.27-am.png
 myangle: >-
