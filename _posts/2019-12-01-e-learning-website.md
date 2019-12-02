@@ -16,9 +16,7 @@ myangle: >-
 
 <br> <br><br>
 
-## <br><u>My Angle</u>
-
-
+<br><u>My Angle</u>
 
 ## _I believe the most challenging element of the project was to determine my user group. Persona was the solution._
 
