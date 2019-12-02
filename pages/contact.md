@@ -3,5 +3,8 @@ layout: default
 title: Contact
 id: contact
 ---
+Email: gupt0620@mylaurier.ca 
 
-This is my contact page!!!!
+![](/images/uploads/contact-illustration.png)
+
+Snapchat: artist-sanskar
