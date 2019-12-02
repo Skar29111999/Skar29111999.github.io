@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sanskar Gupta
-id: Sanskar Gupta
+title: Why?
+id: 'Why? '
 thumbnail: /images/uploads/alexander-slattery-li748t0bk8w.jpg
 ---
 I am a UX student at Wilfrid Laurier University with a Fine Arts background. As a budding designer, I have faced many challenges on the way which have allowed me to explore many assets, resources and experiences.
