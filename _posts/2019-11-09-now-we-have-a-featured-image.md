@@ -2,7 +2,7 @@
 layout: default
 title: Cubix
 date: '2019-11-09 16:38:39'
-thumbnail: /images/uploads/screen-shot-2019-11-06-at-12.56.27-am.png
+thumbnail: /images/uploads/sanskar_landscape_personal_artwork.jpg
 myangle: >-
   It was difficult to make the project environmentally sustainable while making
   the structure durable enough for pets to inhabit. The solution we came across
