@@ -2,7 +2,7 @@
 layout: default
 title: 'Doorcom '
 date: '2019-11-09 16:28:16'
-thumbnail: /images/uploads/screen-shot-2020-03-01-at-10.50.39-pm.png
+thumbnail: /images/uploads/screen-shot-2020-03-01-at-10.24.00-pm.png
 myangle: >-
   <br>The project was a challenge in terms of research since video door phone is
   not  common yet and to determine the functionalities of the app was as good as
