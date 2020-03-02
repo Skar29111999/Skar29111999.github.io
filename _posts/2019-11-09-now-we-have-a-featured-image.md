@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cubix
+title: Personal Artworks
 date: '2019-11-09 16:38:39'
 thumbnail: /images/uploads/sanskar_landscape_personal_artwork.jpg
 myangle: ''
