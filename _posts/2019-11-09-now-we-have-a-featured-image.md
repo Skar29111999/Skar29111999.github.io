@@ -12,6 +12,8 @@ tags: featured image
 
 <br>
 
+![Famous Indian Actor. Amitabh Bachchan](/images/uploads/sanskar_amitabh_bachchan_portrait_personal-artwork.jpg "Famous Indian Actor. Amitabh Bachchan")
+
 <br>
 
 ![Portrait of a popular Indian Singer. Late Mangeshkar ](/images/uploads/dsc_1322-copy.jpg "Portrait of a popular Indian Singer. Late Mangeshkar ")
