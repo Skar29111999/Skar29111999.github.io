@@ -16,6 +16,10 @@ tags: featured image
 
 
 
-### <u>Portraits</u>
+### <u>
 
-![Mr.Amitabh Bachchan ](/images/uploads/sanskar_amitabh_bachchan_portrait_personal-artwork.jpg "18*24 sq. inches Canvas ")
+![]()
+
+### </u>
+
+![Textured sculpture of a woman ](/images/uploads/sanskar_woman_of_the_century_2_personal_artwork.jpg "Textured sculpture of a woman ")
