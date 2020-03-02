@@ -16,6 +16,12 @@ tags: featured image
 
 
 
+![Realistic Portrait](/images/uploads/fb_img_1454691325256.jpg "Realistic Portrait")
+
+<br>
+
 ![Work in Progress for a head sculpture ](/images/uploads/img_20170402_153750.jpg "Work in Progress for a head sculpture ")
+
+### <br>
 
 ![Textured sculpture of a woman ](/images/uploads/sanskar_woman_of_the_century_2_personal_artwork.jpg "Textured sculpture of a woman ")
