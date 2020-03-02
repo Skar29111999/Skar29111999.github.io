@@ -8,9 +8,13 @@ tags: featured image
 ---
 ## <br>The presented artworks have been made ffrom 2015-2019. The aim for displaying the artworks is to show the foundation of my creative skills and abilities 
 
-
+<br>
 
 <br>
+
+<br>
+
+![Portrait of a popular Indian Singer. Late Mangeshkar ](/images/uploads/dsc_1322-copy.jpg "Portrait of a popular Indian Singer. Late Mangeshkar ")
 
 <br>
 
