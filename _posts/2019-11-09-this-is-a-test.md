@@ -15,7 +15,11 @@ tags: Doorcom
 
 <br>Another hurdle was the fact that unlike the West, security door phones is highly uncommon and therefore a possible need/want within the target is userr is unexplored. This led to many skeptics around the technology in terms of how resistent will the technology be from exterrnal hacking. 
 
-<br><u>**My Angle**</u>
+<br><u>
+
+![Main Options for the Key](/images/uploads/screen-shot-2020-03-01-at-11.09.43-pm.png "Key")
+
+</u>
 
 *Though the usability testing of the application was successful, the users were not convinced enough to buy the product in the near future, partially the reason being their skeptics around the use of technology for the securrity of the entrance to a house. Since, my role was confined till around the designing of the app, I was unable to work further on the product to make it more desirable to the users.*  
 
