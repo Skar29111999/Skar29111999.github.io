@@ -16,8 +16,6 @@ tags: featured image
 
 
 
-### <u>
-
-![]()
+![Work in Progress for a head sculpture ](/images/uploads/img_20170402_153750.jpg "Work in Progress for a head sculpture ")
 
 ![Textured sculpture of a woman ](/images/uploads/sanskar_woman_of_the_century_2_personal_artwork.jpg "Textured sculpture of a woman ")
