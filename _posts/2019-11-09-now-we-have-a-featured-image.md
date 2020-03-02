@@ -14,7 +14,9 @@ tags: featured image
 
 <br>
 
+![Steve Jobs](/images/uploads/img_20160425_094229.jpg "Steve Jobs ")
 
+### <br>
 
 ![Realistic Portrait](/images/uploads/fb_img_1454691325256.jpg "Realistic Portrait")
 
