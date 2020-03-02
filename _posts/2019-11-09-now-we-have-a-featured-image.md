@@ -12,6 +12,10 @@ tags: featured image
 
 <br>
 
+![Last Supper ](/images/uploads/sanskar_one_last_time_personal_artwork.jpg "48*30 sq. inches Canvas. Last Supper")
+
+<br>
+
 ![Famous Indian Actor. Amitabh Bachchan](/images/uploads/sanskar_amitabh_bachchan_portrait_personal-artwork.jpg "Famous Indian Actor. Amitabh Bachchan")
 
 <br>
